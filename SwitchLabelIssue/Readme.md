@@ -8,4 +8,4 @@ The multiline label should not overlap the switch.
 #### Actual result result
 The multiline label overlaps the switch.
 
-![switch-label.png](https://raw.githubusercontent.com/Aw79/apple-radar/master/switch%2Blabel.png)
+![switch-label.png](https://raw.githubusercontent.com/Aw79/apple-radar/master/SwitchLabelIssue/switch%2Blabel.png)
